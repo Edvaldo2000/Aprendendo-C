@@ -1,0 +1,6 @@
+E:\_Projects\_Teste\_Teste\bin\Debug\_Teste.exe.config
+E:\_Projects\_Teste\_Teste\bin\Debug\_Teste.exe
+E:\_Projects\_Teste\_Teste\bin\Debug\_Teste.pdb
+E:\_Projects\_Teste\_Teste\obj\Debug\_Teste.csprojResolveAssemblyReference.cache
+E:\_Projects\_Teste\_Teste\obj\Debug\_Teste.exe
+E:\_Projects\_Teste\_Teste\obj\Debug\_Teste.pdb

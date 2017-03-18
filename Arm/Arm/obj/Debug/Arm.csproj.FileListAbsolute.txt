@@ -1,0 +1,6 @@
+E:\_Projects\Arm\Arm\bin\Debug\Arm.exe.config
+E:\_Projects\Arm\Arm\bin\Debug\Arm.exe
+E:\_Projects\Arm\Arm\bin\Debug\Arm.pdb
+E:\_Projects\Arm\Arm\obj\Debug\Arm.exe
+E:\_Projects\Arm\Arm\obj\Debug\Arm.pdb
+E:\_Projects\Arm\Arm\obj\Debug\Arm.csprojResolveAssemblyReference.cache
